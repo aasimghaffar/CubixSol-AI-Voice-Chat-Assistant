@@ -1,0 +1,10 @@
+/* Locally bundled fonts (SIL Open Font License 1.1) - no requests to third-party font servers. */
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url('inter-latin-400-normal.woff2') format('woff2');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:swap;src:url('inter-latin-500-normal.woff2') format('woff2');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url('inter-latin-600-normal.woff2') format('woff2');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:swap;src:url('inter-latin-700-normal.woff2') format('woff2');}
+@font-face{font-family:'Outfit';font-style:normal;font-weight:400;font-display:swap;src:url('outfit-latin-400-normal.woff2') format('woff2');}
+@font-face{font-family:'Outfit';font-style:normal;font-weight:500;font-display:swap;src:url('outfit-latin-500-normal.woff2') format('woff2');}
+@font-face{font-family:'Outfit';font-style:normal;font-weight:600;font-display:swap;src:url('outfit-latin-600-normal.woff2') format('woff2');}
+@font-face{font-family:'Outfit';font-style:normal;font-weight:700;font-display:swap;src:url('outfit-latin-700-normal.woff2') format('woff2');}
+@font-face{font-family:'Outfit';font-style:normal;font-weight:800;font-display:swap;src:url('outfit-latin-800-normal.woff2') format('woff2');}
